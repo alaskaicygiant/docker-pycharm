@@ -1,4 +1,4 @@
-FROM dockerfile/ubuntu
+FROM ubuntu:14.04
 MAINTAINER Owen Ouyang <owen.ouyang@live.com>
 
 # Install Java.
