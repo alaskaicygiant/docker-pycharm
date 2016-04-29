@@ -1,11 +1,12 @@
 FROM ubuntu:14.04
 MAINTAINER Owen Ouyang <owen.ouyang@live.com>
 
+RUN echo debconf shared/accepted-oracle-license-v1-1 select true | sudo debconf-set-selections
+RUN echo debconf shared/accepted-oracle-license-v1-1 seen true | sudo debconf-set-selections
 # Install Java.
 RUN \
-  echo oracle-java8-installer shared/accepted-oracle-license-v1-1 select true | debconf-set-selections && \
   apt-get update && \
-  apt-get install software-properties-common python-software-properties && \
+  apt-get install -y software-properties-common && \
   add-apt-repository -y ppa:webupd8team/java && \
   add-apt-repository -y ppa:mystic-mirage/pycharm && \
   apt-get update && \
