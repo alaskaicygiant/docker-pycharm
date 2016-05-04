@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1058" x="743" y="183" />
+    <location key="WELCOME_SCREEN.1920.159.1280.778" x="796" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1058" x="474" y="227" />
+    <location key="CommitChangelistDialog2.0.0.1920.1058" x="718" y="184" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1058" x="458" y="122" />
+    <location key="WELCOME_SCREEN.0.0.1920.1058" x="959" y="230" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1920.1058" x="817" y="510" />
+    <location key="GitCloneDialog.0.0.1920.1058" x="770" y="343" />
+    <location key="#Docker_Deployment.0.0.1920.1058" x="411" y="52" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1024.768" x="256" y="230" />
+    <location key="GitCloneDialog.0.0.1024.768" x="256" y="286" />
+    <location key="WELCOME_SCREEN.0.0.1024.768" x="544" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.1920.159.1280.778" x="2192" y="322" />
+    <location key="CommitChangelistDialog2.1920.159.1280.778" x="2237" y="318" />
+    <location key="Vcs.Push.Dialog.1920.159.1280.778" x="2282" y="327" />
+    <size key="FileChooserDialogImpl.0.0.1920.1058" width="424" height="485" />
+    <size key="com.intellij.ide.util.TipDialog.0.0.1920.1058" width="517" height="318" />
+    <size key="GitCloneDialog.0.0.1024.768" width="566" height="150" />
+    <size key="com.intellij.ide.util.TipDialog.1920.159.1280.778" width="567" height="358" />
+  </component>
+</application>

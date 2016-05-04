@@ -1,0 +1,54 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="docker-pycharm" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.save.policy.STASH,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.remote.branches.count.1,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1461903017578" />
+      <project id="docker-firefox" values="data.local.branches.count.1,config.ssh.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED" collectionTime="1461901580486" />
+      <project id="get-build" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.local.branches.count.1,config.push.autoupdate.disabled" collectionTime="1461897622339" />
+      <project id="alpine-xfce" values="data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remote.branches.count.1,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1462283730467" />
+    </group>
+    <group name="vcs">
+      <project id="docker-pycharm" values="Git" collectionTime="1461903017446" />
+      <project id="docker-firefox" values="Git" collectionTime="1461901580474" />
+      <project id="get-build" values="Git" collectionTime="1461897622263" />
+      <project id="alpine-xfce" values="Git" collectionTime="1462283730404" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="docker-pycharm" values="ECMAScript 5.1" collectionTime="1461903018358" />
+      <project id="docker-firefox" values="ECMAScript 5.1" collectionTime="1461901580566" />
+      <project id="get-build" values="ECMAScript 5.1" collectionTime="1461897622921" />
+      <project id="alpine-xfce" values="ECMAScript 5.1" collectionTime="1462283730580" />
+    </group>
+    <group name="py-interpreter">
+      <project id="docker-pycharm" values="Python 2.7.6" collectionTime="1461903017526" />
+      <project id="docker-firefox" values="Python 2.7.6" collectionTime="1461901580486" />
+      <project id="get-build" values="Python 2.7.6" collectionTime="1461897622332" />
+      <project id="alpine-xfce" values="Python 2.7.6" collectionTime="1462283730457" />
+    </group>
+    <group name="file-type">
+      <project id="docker-pycharm" values="Dockerfile,UNKNOWN" collectionTime="1461903017502" />
+      <project id="docker-firefox" values="Dockerfile,PLAIN_TEXT" collectionTime="1461901580485" />
+      <project id="get-build" values="PLAIN_TEXT,ARCHIVE" collectionTime="1461897622288" />
+      <project id="alpine-xfce" values="Dockerfile,Images,SQLite Database,PLAIN_TEXT" collectionTime="1462283730443" />
+    </group>
+    <group name="module type">
+      <project id="docker-pycharm" values="PYTHON_MODULE" collectionTime="1461903017447" />
+      <project id="docker-firefox" values="PYTHON_MODULE" collectionTime="1461901580474" />
+      <project id="get-build" values="PYTHON_MODULE" collectionTime="1461897622263" />
+      <project id="alpine-xfce" values="PYTHON_MODULE" collectionTime="1462283730404" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="docker-pycharm" values="Project,Project" collectionTime="1461903018358" />
+      <project id="docker-firefox" values="Project,Project" collectionTime="1461901580562" />
+      <project id="get-build" values="Project,Project" collectionTime="1461897622921" />
+      <project id="alpine-xfce" values="Project,Project" collectionTime="1462283730580" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ideaapp.started" count="10" />
+      <entry feature="terminal.linux" count="10" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>

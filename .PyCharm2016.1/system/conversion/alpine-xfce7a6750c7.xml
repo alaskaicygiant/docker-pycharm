@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/ubuntu/workspace/at/alpine-xfce/.idea/alpine-xfce.iml" timestamp="1461901703000" />
+    <file path="/home/ubuntu/workspace/at/alpine-xfce/.idea/misc.xml" timestamp="1461901598000" />
+    <file path="/home/ubuntu/workspace/at/alpine-xfce/.idea/modules.xml" timestamp="1462339380000" />
+    <file path="/home/ubuntu/workspace/at/alpine-xfce/.idea/vcs.xml" timestamp="1461901600000" />
+    <file path="/home/ubuntu/workspace/at/alpine-xfce/.idea/workspace.xml" timestamp="1462341432000" />
+  </project-files>
+</conversion>
+
