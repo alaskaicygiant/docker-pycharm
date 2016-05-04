@@ -7,6 +7,7 @@ RUN tar xvfz /tmp/pycharm.tgz -C /usr/lib
 RUN ln -s /usr/lib/pycharm-2016.1.2/bin/pycharm.sh /usr/bin/pycharm \
     && rm -rf /usr/lib/pycharm-2016.1.2/jre \
     && ln -s /opt/jdk1.8.0_77/jre /usr/lib/pycharm-2016.1.2/jre
+    && sed "s/\ -e\ / /g" /usr/lib/pycharm-2016.1.2/bin/pycharm.sh
 RUN echo "sh -c \"sleep 5 && /usr/lib/pycharm-2016.1.2/bin/pycharm.sh \"" >> /etc/xdg/xfce4/xinitrc
 
 CMD startxfce4
