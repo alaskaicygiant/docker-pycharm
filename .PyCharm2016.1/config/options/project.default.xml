@@ -11,9 +11,6 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="$USER_HOME$/workspace/at" />
-      </component>
     </defaultProject>
   </component>
 </application>
