@@ -2,7 +2,7 @@ FROM quay.io/alaska/xfce:latest
 
 ADD .PyCharm2016.1 /root/.PyCharm2016.1
 ADD .config /root/.config
-RUN apk update && apk add wget git python
+RUN apk update && apk add wget git python htop tmux openssh-client
 RUN wget -O /tmp/pycharm.tgz "https://googledrive.com/host/0B5BZjWSRmay4OVVoYmRvZjd5OTg/pycharm-professional-2016.1.2.tar.gz" \
     && tar xvfz /tmp/pycharm.tgz -C /usr/lib \
     && ln -s /usr/lib/pycharm-2016.1.2/bin/pycharm.sh /usr/bin/pycharm \
